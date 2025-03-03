@@ -1,4 +1,9 @@
 *_private.go
+.DS_Store
+*.pyc
+__pycache__
+prefs.plist
+lib
 
 /build
 /dist
